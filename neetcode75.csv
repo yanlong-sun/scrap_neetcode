@@ -1,0 +1,76 @@
+type,name,link,difficulty
+Arrays & Hashing, Contains Duplicate ,https://leetcode.com/problems/contains-duplicate/,Easy
+Arrays & Hashing, Valid Anagram ,https://leetcode.com/problems/valid-anagram/,Easy
+Arrays & Hashing, Two Sum ,https://leetcode.com/problems/two-sum/,Easy
+Arrays & Hashing, Group Anagrams ,https://leetcode.com/problems/group-anagrams/,Medium
+Arrays & Hashing, Top K Frequent Elements ,https://leetcode.com/problems/top-k-frequent-elements/,Medium
+Arrays & Hashing, Product of Array Except Self ,https://leetcode.com/problems/product-of-array-except-self/,Medium
+Arrays & Hashing, Encode and Decode Strings ,https://leetcode.com/problems/encode-and-decode-strings/,Medium
+Arrays & Hashing, Longest Consecutive Sequence ,https://leetcode.com/problems/longest-consecutive-sequence/,Medium
+Two Pointers, Valid Palindrome ,https://leetcode.com/problems/valid-palindrome/,Easy
+Two Pointers, 3Sum ,https://leetcode.com/problems/3sum/,Medium
+Two Pointers, Container With Most Water ,https://leetcode.com/problems/container-with-most-water/,Medium
+Sliding Window, Best Time to Buy And Sell Stock ,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,Easy
+Sliding Window, Longest Substring Without Repeating Characters ,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Medium
+Sliding Window, Longest Repeating Character Replacement ,https://leetcode.com/problems/longest-repeating-character-replacement/,Medium
+Sliding Window, Minimum Window Substring ,https://leetcode.com/problems/minimum-window-substring/,Hard
+Stack, Valid Parentheses ,https://leetcode.com/problems/valid-parentheses/,Easy
+Binary Search, Find Minimum In Rotated Sorted Array ,https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/,Medium
+Binary Search, Search In Rotated Sorted Array ,https://leetcode.com/problems/search-in-rotated-sorted-array/,Medium
+Linked List, Reverse Linked List ,https://leetcode.com/problems/reverse-linked-list/,Easy
+Linked List, Merge Two Sorted Lists ,https://leetcode.com/problems/merge-two-sorted-lists/,Easy
+Linked List, Reorder List ,https://leetcode.com/problems/reorder-list/,Medium
+Linked List, Remove Nth Node From End of List ,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Medium
+Linked List, Linked List Cycle ,https://leetcode.com/problems/linked-list-cycle/,Easy
+Linked List, Merge K Sorted Lists ,https://leetcode.com/problems/merge-k-sorted-lists/,Hard
+Trees, Invert Binary Tree ,https://leetcode.com/problems/invert-binary-tree/,Easy
+Trees, Maximum Depth of Binary Tree ,https://leetcode.com/problems/maximum-depth-of-binary-tree/,Easy
+Trees, Same Tree ,https://leetcode.com/problems/same-tree/,Easy
+Trees, Subtree of Another Tree ,https://leetcode.com/problems/subtree-of-another-tree/,Easy
+Trees, Lowest Common Ancestor of a Binary Search Tree ,https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/,Medium
+Trees, Binary Tree Level Order Traversal ,https://leetcode.com/problems/binary-tree-level-order-traversal/,Medium
+Trees, Validate Binary Search Tree ,https://leetcode.com/problems/validate-binary-search-tree/,Medium
+Trees, Kth Smallest Element In a Bst ,https://leetcode.com/problems/kth-smallest-element-in-a-bst/,Medium
+Trees, Construct Binary Tree From Preorder And Inorder Traversal ,https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/,Medium
+Trees, Binary Tree Maximum Path Sum ,https://leetcode.com/problems/binary-tree-maximum-path-sum/,Hard
+Trees, Serialize And Deserialize Binary Tree ,https://leetcode.com/problems/serialize-and-deserialize-binary-tree/,Hard
+Tries, Implement Trie Prefix Tree ,https://leetcode.com/problems/implement-trie-prefix-tree/,Medium
+Tries, Design Add And Search Words Data Structure ,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Medium
+Tries, Word Search II ,https://leetcode.com/problems/word-search-ii/,Hard
+Heap / Priority Queue, Find Median From Data Stream ,https://leetcode.com/problems/find-median-from-data-stream/,Hard
+Backtracking, Combination Sum ,https://leetcode.com/problems/combination-sum/,Medium
+Backtracking, Word Search ,https://leetcode.com/problems/word-search/,Medium
+Graphs, Number of Islands ,https://leetcode.com/problems/number-of-islands/,Medium
+Graphs, Clone Graph ,https://leetcode.com/problems/clone-graph/,Medium
+Graphs, Pacific Atlantic Water Flow ,https://leetcode.com/problems/pacific-atlantic-water-flow/,Medium
+Graphs, Course Schedule ,https://leetcode.com/problems/course-schedule/,Medium
+Graphs, Number of Connected Components In An Undirected Graph ,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Medium
+Graphs, Graph Valid Tree ,https://leetcode.com/problems/graph-valid-tree/,Medium
+Advanced Graphs, Alien Dictionary ,https://leetcode.com/problems/alien-dictionary/,Hard
+1-D Dynamic Programming, Climbing Stairs ,https://leetcode.com/problems/climbing-stairs/,Easy
+1-D Dynamic Programming, House Robber ,https://leetcode.com/problems/house-robber/,Medium
+1-D Dynamic Programming, House Robber II ,https://leetcode.com/problems/house-robber-ii/,Medium
+1-D Dynamic Programming, Longest Palindromic Substring ,https://leetcode.com/problems/longest-palindromic-substring/,Medium
+1-D Dynamic Programming, Palindromic Substrings ,https://leetcode.com/problems/palindromic-substrings/,Medium
+1-D Dynamic Programming, Decode Ways ,https://leetcode.com/problems/decode-ways/,Medium
+1-D Dynamic Programming, Coin Change ,https://leetcode.com/problems/coin-change/,Medium
+1-D Dynamic Programming, Maximum Product Subarray ,https://leetcode.com/problems/maximum-product-subarray/,Medium
+1-D Dynamic Programming, Word Break ,https://leetcode.com/problems/word-break/,Medium
+1-D Dynamic Programming, Longest Increasing Subsequence ,https://leetcode.com/problems/longest-increasing-subsequence/,Medium
+2-D Dynamic Programming, Unique Paths ,https://leetcode.com/problems/unique-paths/,Medium
+2-D Dynamic Programming, Longest Common Subsequence ,https://leetcode.com/problems/longest-common-subsequence/,Medium
+Greedy, Maximum Subarray ,https://leetcode.com/problems/maximum-subarray/,Medium
+Greedy, Jump Game ,https://leetcode.com/problems/jump-game/,Medium
+Intervals, Insert Interval ,https://leetcode.com/problems/insert-interval/,Medium
+Intervals, Merge Intervals ,https://leetcode.com/problems/merge-intervals/,Medium
+Intervals, Non Overlapping Intervals ,https://leetcode.com/problems/non-overlapping-intervals/,Medium
+Intervals, Meeting Rooms ,https://leetcode.com/problems/meeting-rooms/,Easy
+Intervals, Meeting Rooms II ,https://leetcode.com/problems/meeting-rooms-ii/,Medium
+Math & Geometry, Rotate Image ,https://leetcode.com/problems/rotate-image/,Medium
+Math & Geometry, Spiral Matrix ,https://leetcode.com/problems/spiral-matrix/,Medium
+Math & Geometry, Set Matrix Zeroes ,https://leetcode.com/problems/set-matrix-zeroes/,Medium
+Bit Manipulation, Number of 1 Bits ,https://leetcode.com/problems/number-of-1-bits/,Easy
+Bit Manipulation, Counting Bits ,https://leetcode.com/problems/counting-bits/,Easy
+Bit Manipulation, Reverse Bits ,https://leetcode.com/problems/reverse-bits/,Easy
+Bit Manipulation, Missing Number ,https://leetcode.com/problems/missing-number/,Easy
+Bit Manipulation, Sum of Two Integers ,https://leetcode.com/problems/sum-of-two-integers/,Medium
